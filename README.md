@@ -7,7 +7,7 @@ Um compendium de informações sobre o sistema T20 para o Foundry VTT.
 ## Manual
 
 Você pode adicionar o módulo manualmente na aba de "Add-on Modules" no Foundry VTT utilizando a seguinte URL:
-https://raw.githubusercontent.com/Kull4ck/tormenta20-compendium/master/module.json
+https://raw.githubusercontent.com/MateusMarochi/tormenta20-compendium/master/module.json
 
 ---
 
